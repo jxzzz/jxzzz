@@ -16,12 +16,6 @@
 | [TaskFlow](https://github.com/jxzzz/taskflow) | 全栈任务看板：多项目管理、拖拽排序、清单协作、文件附件、国际化 | React 19 · Spring Boot 3.4 · MySQL · Redis · MinIO |
 | [multi-agent-report](https://github.com/jxzzz/project-3-report-agent) | 多 Agent 数据分析报告系统：任务规划 → SQL 查询 → 报告写作 → 事实审查 → 人工确认 | Python · LangGraph · DeepSeek · SQLite |
 
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jxzzz&show_icons=true&hide_rank=false&theme=default" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxzzz&layout=compact&langs_count=8&exclude_repo=free-programming-books,build-your-own-x&theme=default" alt="Top Langs" height="160" />
-</p>
 
 ---
 <p align="center">⭐️ 欢迎给我的项目点个 Star！</p>
