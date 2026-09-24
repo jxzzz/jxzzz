@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Xue (jxzzz)</h1>
 <h3 align="center">全栈开发者</h3>
 
+### 🧑‍💻 关于我
+
 - 🔭 目前专注于 **React / TypeScript** 生态与组件库建设
 - 🤖 正在探索 **AI Agent** 应用开发（LangGraph、多智能体工作流）
 - 🛠️ 同时写后端：**Java 21 / Spring Boot 3 / MySQL / Redis / RabbitMQ**
